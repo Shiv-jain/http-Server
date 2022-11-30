@@ -2,9 +2,9 @@
 
 We can visit the following URL's:
 
-1. localhost:<port>/friends
-2. localhost:<port>/messages
-3. localhost:<port>/friends/id (where id is between 0 to 4)
+1. localhost:{port}friends
+2. localhost:{port}/messages
+3. localhost:{port}/friends/id (where id is between 0 to 4)
 
 (In this case , port is 3000 so URL would be like 'localhost:3000/friends')
 
